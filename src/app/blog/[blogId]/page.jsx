@@ -1,8 +1,8 @@
-export default function BlogIds({params}){
-    console.log(params)
+export default function BlogPage({ params }) {
+    console.log(params);
     return (
-        <>
-            <div>blogID: {params.BlogIds}</div>
-        </>
-    )
+        <div>
+            blogID: {params.blogId}
+        </div>
+    );
 }
