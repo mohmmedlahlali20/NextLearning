@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Fuck(props) {
+function about() {
     return (
         <div>fuck</div>
     );
 }
 
-export default Fuck;
+export default about;
