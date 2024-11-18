@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c31a11d8-a9e9-46eb-8356-2603a2e46568" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/about/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog/[blogId]/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/[blogId]/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/_form/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/[blogId]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/category/[categoryName]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/category/[categoryName]/product/[ProductName]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/fuck/[how]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="navigation" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +52,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;navigation&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;PrivateFolders&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mohmm/OneDrive/Desktop/next-js/src/app/blog/[blogId]&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -90,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731926631933</updated>
       <workItem from="1731926636953" duration="3351000" />
-      <workItem from="1731952092876" duration="2304000" />
+      <workItem from="1731952092876" duration="5934000" />
     </task>
     <servers />
   </component>
