@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c31a11d8-a9e9-46eb-8356-2603a2e46568" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/MenuBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/costumLink.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/_form/page.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/category/[categoryName]/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(users)/login/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/category/[categoryName]/product/[ProductName]/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(users)/register/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/_form/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/[blogId]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/category/[categoryName]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/category/[categoryName]/product/[ProductName]/page.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/fuck/[how]/page.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/fuck/page.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/page.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="navigation" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -39,18 +42,18 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2p2asuWP9vMqB2PxMeammqg0Aqt" />
+  <component name="ProjectId" id="2p1HOPD0dlJLX5PwAGsIrkBt0uy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;GroupRouter&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;PrivateFolders&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mohmm/OneDrive/Desktop/next-js/src/app/blog/[blogId]&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,6 +72,14 @@
       </map>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mohmm\OneDrive\Desktop\next-js\src\app\blog\[blogId]" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mohmm\OneDrive\Desktop\next-js\src\app\blog" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,13 +91,12 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c31a11d8-a9e9-46eb-8356-2603a2e46568" name="Changes" comment="" />
-      <created>1731966839425</created>
+      <created>1731926631933</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731966839425</updated>
-      <workItem from="1731966841018" duration="6143000" />
-      <workItem from="1732020904211" duration="15000" />
-      <workItem from="1732053579512" duration="996000" />
+      <updated>1731926631933</updated>
+      <workItem from="1731926636953" duration="3351000" />
+      <workItem from="1731952092876" duration="5934000" />
     </task>
     <servers />
   </component>
